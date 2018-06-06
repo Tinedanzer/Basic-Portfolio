@@ -1,3 +1,25 @@
 
-body{background-color:rgb(65, 192, 209)}
-p{color: 777777}
+body{background-color:rgb(65, 192, 209);
+    height:100%}
+
+h1{font-size: 32px;font-weight:bold}
+
+p1{color:red}
+#pic1 {
+    width: 50%;
+    height: 35em;
+    padding-left: 30em;
+}
+footer{
+    width: 100%;
+    background-color:gray;
+    height:3em;
+    text-align:center;
+    padding-top:1em;
+    position: relative;
+    bottom: 0;
+}
+#container{
+        height: 100%;
+        position:relative;
+}
